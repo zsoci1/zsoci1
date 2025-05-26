@@ -7,7 +7,7 @@
 - living life in pomodoro sessions
 - clueless in life but sure know my way around the lands between
 - love & hate relationship with productivity
-- powered by kombucha
+- anki slave
 
 <!---
 zsoci1/zsoci1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
