@@ -1,5 +1,5 @@
 <ul>
-  <li>Applied Informatics student at J. Selye University.</li>
+  <li>applied informatics student at J. Selye University</li>
   <li>present moment enjoyer</li>
   <li>working on stuff & myself</li>
 </ul>
