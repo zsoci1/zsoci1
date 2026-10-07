@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title description">
+  <title id="title">Typewriter introduction</title>
+  <desc id="description">Hello, I'm zsoci1, an applied informatics student and unfinished-project collector.</desc>
+  <style>
+    .background {
+      fill: #0d1117;
+    }
+
+    .prompt {
+      fill: #7ee787;
+      font: 700 26px monospace;
+    }
+
+    .command {
+      fill: #f0f6fc;
+      font: 700 34px monospace;
+    }
+
+    .subtitle {
+      fill: #8b949e;
+      font: 18px monospace;
+    }
+
+    .cursor {
+      fill: #7ee787;
+      animation: blink 0.8s steps(1, end) infinite;
+    }
+
+    .typed {
+      clip-path: inset(0 100% 0 0);
+      animation: typing 2.5s steps(6, end) forwards;
+    }
+
+    @keyframes typing {
+      to {
+        clip-path: inset(0 0 0 0);
+      }
+    }
+
+    @keyframes blink {
+      50% {
+        opacity: 0;
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .background {
+        fill: #ffffff;
+      }
+
+      .command {
+        fill: #24292f;
+      }
+
+      .subtitle {
+        fill: #57606a;
+      }
+    }
+  </style>
+
+  <rect class="background" width="900" height="220" rx="16" />
+  <text class="prompt" x="48" y="58">$</text>
+  <text class="command typed" x="82" y="58">whoami</text>
+  <rect class="cursor" x="238" y="31" width="3" height="34" />
+  <text class="subtitle" x="48" y="112">zsoci1.</text>
+  <text class="subtitle" x="48" y="142">-&gt; applied informatics student at J. Selye University.</text>
+  <text class="subtitle" x="48" y="166">-&gt; present moment enjoyer</text>
+  <text class="subtitle" x="48" y="190">-&gt; collector of unfinished projects</text>
+</svg>

@@ -6,7 +6,7 @@
   <li>collector of unfinished projects</li>
 </ul>
 
-
+<img src="./assets/typewriter-intro.svg" alt="Typewriter introduction" width="100%" />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ay6fbnecehjraxl5fefdeaa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
