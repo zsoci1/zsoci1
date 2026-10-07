@@ -1,7 +1,8 @@
 <ul>
   <li>applied informatics student at J. Selye University</li>
   <li>present moment enjoyer</li>
-  <li>working on stuff & myself</li>
+  <li>anki slave</li>
+  <li>collector of unfinished projects</li>
 </ul>
 <!---
 zsoci1/zsoci1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
