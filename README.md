@@ -6,3 +6,17 @@
 </ul>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ay6fbnecehjraxl5fefdeaa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{zsoci1}}/{{zsoci1}}/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{zsoci1}}/{{zsoci1}}/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/{{zsoci1}}/{{zsoci1}}/output/snake.svg" width="100%" />
+</picture>
+
+### {{zsoci}}
+
+> *{{tagline}}*
+
+The snake above is built fresh every day — it's eating real commits, not props.
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
