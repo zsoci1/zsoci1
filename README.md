@@ -4,7 +4,5 @@
   <li>anki slave</li>
   <li>collector of unfinished projects</li>
 </ul>
-<!---
-zsoci1/zsoci1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ay6fbnecehjraxl5fefdeaa&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21ay6fbnecehjraxl5fefdeaa&redirect=true)
