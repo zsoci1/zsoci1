@@ -22,7 +22,7 @@
   />
   <img
     alt="A snake eating my GitHub contribution graph"
-    src="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake.gif"
+    src="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake.svg"
     width="100%"
   />
 </picture>
