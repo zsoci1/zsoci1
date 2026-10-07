@@ -12,9 +12,19 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake.svg" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake.svg"
+  />
+  <img
+    alt="A snake eating my GitHub contribution graph"
+    src="https://raw.githubusercontent.com/zsoci1/zsoci1/output/snake.gif"
+    width="100%"
+  />
 </picture>
 
 ### zsoci1
